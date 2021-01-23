@@ -1,1 +1,1 @@
-# ecom-product-images-showcase
+# eCom Product Images Showcase
